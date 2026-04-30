@@ -50,7 +50,7 @@ Customers are grouped into clusters to understand different types of buying beha
 
 ### 🔹 Customer Segmentation Visualization
 
-![Customer Segmentation](Screenshots/customer_segmentation.png)
+![Elbow Method](https://github.com/Puttavamshi/PRODIGY_DS_04/raw/main/Screenshots/Elbow%20method.png)
 
 ---
 
