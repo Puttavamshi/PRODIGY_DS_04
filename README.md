@@ -48,9 +48,14 @@ Customers are grouped into clusters to understand different types of buying beha
 
 ## 📈 Output
 
-### 🔹 Customer Segmentation Visualization
-
+### 🔹 Elbow Method Visualization
 ![Elbow Method](https://github.com/Puttavamshi/PRODIGY_DS_04/raw/main/Screenshots/Elbow%20method.png)
+### 🔹 cluster Visualization
+![cluster](https://github.com/Puttavamshi/PRODIGY_DS_04/blob/main/Screenshots/cluster.png)
+### 🔹 Customer segmentation Visualization
+![Customer segmentation](https://github.com/Puttavamshi/PRODIGY_DS_04/blob/main/Screenshots/Customer%20segmentation.png)
+### 🔹 customer segmentation using k-means Visualization
+![customer segmentation using k-means](https://github.com/Puttavamshi/PRODIGY_DS_04/blob/main/Screenshots/customer_segmentation%20using%20k-means.png)
 
 ---
 
